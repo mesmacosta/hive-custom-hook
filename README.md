@@ -23,7 +23,7 @@ vi /opt/hive/conf/hive-site.xml
 # Restart your Hive server
 ```
 
-## Register your hook in Hive Manually (For testing purposes, if your restart its cleared)
+## Register your hook in Hive manually (For testing purposes, if your restart its cleared)
 ```bash
 # Inside your Hive shell, run
 
